@@ -6,7 +6,7 @@
 https://user-images.githubusercontent.com/46225357/161393571-6307a8e6-8e03-4926-a230-8b068eb33834.mov
 
 
-# :man_technologist: Technologies Used
+## :man_technologist: Technologies Used
 
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
